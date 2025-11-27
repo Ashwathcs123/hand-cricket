@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HandCricket</string>
+    <string name="hand_cricket">Hand Cricket</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="start">Start</string>
+    <string name="name_label">"Name : "</string>
+    <string name="score_label">"Score : "</string>
+    <string name="score">Score</string>
+    <string name="out">Out</string>
+    <string name="system">System</string>
+    <string name="bowling">Bowling</string>
+    <string name="batting">Batting</string>
+    <string name="player">Player</string>
+    <string name="win">YOU WIN</string>
+    <string name="loose">YOU LOOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="exit">EXIT</string>
+</resources>
